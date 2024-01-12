@@ -27,7 +27,7 @@ CloudWatch helps address several critical challenges, including:
     Troubleshooting: Analyzing logs and metrics to troubleshoot problems and reduce downtime.
     Scalability: Automatically scaling resources based on demand to ensure optimal performance and cost efficiency.
 
-Practical Use Cases of AWS CloudWatch:
+Practical Use Cases of AWS CloudWatch :
 
     Auto Scaling: CloudWatch can trigger Auto Scaling actions based on defined thresholds. For example, you can automatically scale in or out based on CPU utilization or request counts.
 
